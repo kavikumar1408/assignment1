@@ -1,0 +1,10 @@
+puts "MATHS OPERATIONS !"
+puts " "
+puts "addition 5+5 - #{5+5}"
+puts "subtraction 25-5 - #{25-5}"
+puts "Is it greater or equal to  - #{10<=5}"
+puts "3 + 4 - 2 * 20 / 2 - value of this : "
+puts 3 + 4 - 2 * 20 / 2
+puts "Is is true or false #{75<34}"
+puts "Is is true or false #{35<85}"
+puts "Thank you"
